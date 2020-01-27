@@ -1,1 +1,17 @@
+#theme: jekyll-theme-dinky
+
+title: netDx
+description: Tool to build a patient classifier using similarity networks
+defaults:
+  # _posts
+  - scope:
+      path: ""
+    values:
+      author_profile: true
+
+author:
+  name: "Shraddha Pai"
+  bio: "Genomics and Precision Medicine" # Note: Markdown is allowed
+  location: "Toronto"
+
 theme: jekyll-theme-dinky
